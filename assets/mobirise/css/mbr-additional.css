@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+#header1-0 P {
+  font-size: 30px;
+  color: #04f8ff;
+}
+#header1-0 H1 {
+  color: #feeaba;
+}
+#header1-0 B {
+  font-family: 'Lora', serif;
+}
+#header1-0 .btn {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#content5-o .mbr-section-title {
+  text-align: center;
+  color: #0b21fa;
+}
+#content5-o P {
+  text-align: center;
+  font-size: 36px;
+}
+#content5-o DIV {
+  color: #085a1e;
+}
+#msg-box3-n .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-n .lead P {
+  font-family: 'Lora', serif;
+  font-size: 60px;
+}
+#msg-box3-n .lead {
+  color: #0275d8;
+}
+#msg-box3-n .mbr-section-title {
+  color: #f90700;
+}
+#msg-box3-n .btn {
+  font-size: 21px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-n .mbr-section-title B {
+  font-size: 60px;
+}

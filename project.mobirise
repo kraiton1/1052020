@@ -1,0 +1,234 @@
+{
+  "settings": {
+    "name": "Аuthor 023",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#085a1e",
+        "#f90700",
+        "#0be646",
+        "#051e2a",
+        "#04f8ff",
+        "#0b21fa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "uniqCompNum": 25,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/128x213.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": false,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "1 Project",
+        "meta_descr": "Принцип работы партнёрского маркетинга \nСделай  действие - приведи покупателя\nполучи  оплату - это вознаграждение ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1011.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#051e2a",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<b>Что такое <br>СРА-маркетинг</b>",
+          "text": "<b>&nbsp;CPA</b> &nbsp;маркетинг\n<br>или<br>партнёрский маркетинг <br>\n<br><b><br></b><br><br><br><br><br><b>УЗНАТЬ &nbsp; &nbsp;ВСЕ &nbsp;</b><br><b>ПОДРОБНО</b><br><b>и </b><br><b>&nbsp; ПОЛУЧИТЬ &nbsp;</b><br><b>БОЛЬШОЙ &nbsp; БОНУС</b><br><br>Можно &nbsp;будет &nbsp; после &nbsp;оплаты <br>ТОВАРА<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://glopart.ru/buy/200039\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://glopart.ru/public/200039\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ &nbsp;ПАРТНЕРОВ</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "color": "#04f8ff"
+            },
+            "H1": {
+              "color": "#feeaba"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff8e0",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<b>Из проекта вы узнаете \n</b>",
+          "caption": "<p><br></p><p>\n</p><p><b>Сколько бывает участников \n</b></p><p><b>Схемы работы \n</b></p><p><b>Какие бывают рекламодатели\n</b></p><p><b>За что рекламодатели платят веб-мастерам\n</b></p><p><b>Виды оплаты \n</b></p><p><b>Какие бывают вебмастера\n</b></p><p><b>Какие бывают площадки и бизнес модели\n</b></p><p><b>Запрещенные виды трафика\n</b></p><p>А &nbsp; САМОЕ &nbsp; ГЛАВНОЕ &nbsp;</p><p>ВЫ &nbsp;ПОЛУЧИТЕ &nbsp;</p><p><b>БОЛЬШОЙ</b> &nbsp;<b>БОНУС</b></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#0b21fa"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "color": "#085a1e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020. kraiton 1.It is forbidden to copy materials from the website for free. &nbsp; &nbsp; &nbsp;<a href=\"https://is.gd/7uucoM\" target=\"_blank\">Партнерская программа</a> &nbsp; &nbsp; &nbsp;Паблик в : <a href=\"https://vk.com/1kraiton\" target=\"_blank\">ВКонтакте</a>&nbsp; &nbsp; g-mail : &nbsp;<a href=\"mailto:kraiton379@gmail.com\">kraiton379@gmail.com</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "60px"
+            },
+            ".lead": {
+              "color": "#0275d8"
+            },
+            ".mbr-section-title": {
+              "color": "#f90700"
+            },
+            ".btn": {
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5455-1984x1501.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#e1cfed",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<b><br></b><br><b>БОНУС</b><br><br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>&nbsp; &nbsp;обучение &nbsp; &nbsp; &nbsp;зарабатыванию &nbsp;</b></p><p><b>денег&nbsp;</b></p><p><b>в интернете&nbsp;</b></p>",
+          "button": "         <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Воронка продаж для участников Клуба \"Пошаговый план заработка на партнерках\"</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-n"
+        }
+      ]
+    }
+  }
+}
